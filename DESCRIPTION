@@ -1,9 +1,12 @@
 Package: assignmentB2SuhailaNg
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Count Missing Values by Group
+Version: R version 4.4.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Suhaila", "Ng", , "suhailang04@gmail.com", role = c("aut", "cre"))
+Description: Summarizes missing-value counts across all non-grouping
+    columns of a data frame for each level of a selected grouping
+    column. Provides control over the grouping structure of the
+    resulting tibble.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
