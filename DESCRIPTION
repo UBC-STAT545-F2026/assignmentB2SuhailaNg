@@ -1,6 +1,6 @@
 Package: assignmentB2SuhailaNg
 Title: Count Missing Values by Group
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Suhaila", "Ng", , "suhailang04@gmail.com", role = c("aut", "cre"))
 Description: Summarizes missing-value counts across all non-grouping
