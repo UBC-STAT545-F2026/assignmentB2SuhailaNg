@@ -22,7 +22,7 @@ You can install the package from GitHub using:
 # install.packages("devtools")
 devtools::install_github(
   "UBC-STAT545-F2026/assignmentB2SuhailaNg",
-  ref = "0.1.0"
+  ref = "0.1.1"
 )
 ```
 
