@@ -1,16 +1,19 @@
 Package: assignmentB2SuhailaNg
 Title: Count Missing Values by Group
-Version: R version 4.4.1
+Version: 0.1.0
 Authors@R: 
     person("Suhaila", "Ng", , "suhailang04@gmail.com", role = c("aut", "cre"))
 Description: Summarizes missing-value counts across all non-grouping
     columns of a data frame for each level of a selected grouping
     column. Provides control over the grouping structure of the
     resulting tibble.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Imports: 
     dplyr
 Config/roxygen2/version: 8.1.1
+Suggests: 
+    datasets,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
